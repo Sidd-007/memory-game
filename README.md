@@ -12,7 +12,7 @@
 npm install
 ```
 
-### Run React dev server (http://localhost:3000)
+### Run React dev server 
 
 ```
 npm start
